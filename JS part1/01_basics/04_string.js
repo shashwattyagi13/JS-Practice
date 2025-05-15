@@ -22,8 +22,3 @@ console.log(test.split("-")); //['test', 'here', 'now']
 console.log(test.split("")); //['t', 'e', 's', 't', '-', 'h', 'e', 'r', 'e', '-', 'n', 'o', 'w']
 //It will split the string into an array of characters
 
-console.log(
-  Math.random(),
-  Math.random() * 10,
-  Math.floor(Math.random() * 10) + 1
-); //0.123456789
